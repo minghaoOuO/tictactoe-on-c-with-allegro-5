@@ -21,3 +21,4 @@ public:
 	int mode;	// 1 : random , 2 : smartet automatically choose
 };
 #endif
+
