@@ -5,7 +5,7 @@
 #include <allegro5/allegro_image.h>
 #include <allegro5/allegro_native_dialog.h>
 
-// ¤E®c®æ®y¼Ğ nine square division coordination
+// Â¤EÂ®cÂ®Ã¦Â®yÂ¼Ã nine square division coordination
 int xcoord[11] = {650, 870, 1090, 650, 870, 1090, 650, 870, 1090, 0};
 int ycoord[11] = {230, 230, 230, 420, 420, 420, 590, 590, 590, 0};
 
