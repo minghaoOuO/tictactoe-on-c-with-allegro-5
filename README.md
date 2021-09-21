@@ -21,6 +21,7 @@
 # the play scene
 
 <img width="442" alt="play_scene" src="https://user-images.githubusercontent.com/65432444/134102702-9589d140-e288-4fce-9e20-7b1032ed3199.PNG">
+<img width="447" alt="play_scene 2" src="https://user-images.githubusercontent.com/65432444/134103003-06828dfe-1e22-48b6-9d8e-6ee65cb114c1.PNG">
 
 ### players press 1 - 9 to set O on boards, then com will set X automatically
 
